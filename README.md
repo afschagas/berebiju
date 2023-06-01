@@ -27,9 +27,9 @@
 # Demonstração da aplicação
 
 <h3 align="center">
-    <a href="https://berebiju.vercel.app/">🔗 Bere Biju</a>
+    <a href="https://berebiju.vercel.app/">🔗 Bere Biju - Vercel</a>
 </h3>
 
 <h1 align="center">
-  <img alt="Vercel" title="#Vercel" src="" />
+  <img alt="Vercel" title="#Vercel" width="800" src="img/vercel.png" />
 </h1>

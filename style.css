@@ -299,6 +299,10 @@ span {
   color: #000;
 }
 
+.status {
+  color: red;
+}
+
 li {
   padding: 5px;
 }
